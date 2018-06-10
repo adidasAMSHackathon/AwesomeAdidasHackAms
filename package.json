@@ -1,0 +1,22 @@
+{
+    "name": "bxlck",
+    "displayName": "bxlck",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "ksjogo",
+    "scripts": {
+        "build": "tsc -p ./"
+    },
+    "dependencies": {
+        "@types/node": "^7.0.65",
+        "@types/node-fetch": "^1.6.9",
+        "@types/serialport": "^6.0.1",
+        "@types/ws": "^5.1.2",
+        "node-fetch": "^2.1.2",
+        "serialport": "^6.2.0",
+        "tslint": "^5.10.0",
+        "tslint-config-standard": "^7.0.0",
+        "typescript": "^2.9.1",
+        "ws": "^5.2.0"
+    }
+}
